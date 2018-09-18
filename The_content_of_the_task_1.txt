@@ -1,0 +1,2 @@
+ZADANIE 1. GENERATOR KODÓW POCZTOWYCH
+przyjmuje 2 stringi: "79-900" i "80-155" i zwraca listê kodów pomiêdzy nimi
